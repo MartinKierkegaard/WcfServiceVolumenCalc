@@ -36,7 +36,7 @@ namespace WcfServiceVolumenCalc
                 Console.WriteLine("Der skete en fejl i indsættelse af data, fejl: " + e.Message );
             }
 
-            return volumResulte;
+            return volumeResult;
         }
 
 
